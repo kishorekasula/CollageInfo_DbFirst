@@ -39,7 +39,7 @@ namespace CollageInfo.Repository
             {
                 return null;
             }
-
+             
             subscription.CourseId = SubscriptionModel.CourseId;
             subscription.CourseName = SubscriptionModel.CourseName;
             subscription.CourseType = SubscriptionModel.CourseType;
