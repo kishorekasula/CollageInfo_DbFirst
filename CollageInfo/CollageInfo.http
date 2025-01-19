@@ -1,0 +1,6 @@
+@CollageInfo_HostAddress = http://localhost:5105
+
+GET {{CollageInfo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
